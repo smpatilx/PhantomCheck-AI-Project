@@ -1,0 +1,14 @@
+node_modules/
+uploads/*
+!uploads/.gitkeep
+.env
+*.log
+*.traineddata
+.DS_Store
+Thumbs.db
+
+.env.*
+!.env.example
+dist/
+coverage/
+npm-debug.log*
